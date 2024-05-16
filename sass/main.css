@@ -99,6 +99,16 @@ main h1 {
   padding: 1rem;
 }
 
+.tab__content li {
+  margin: 0;
+  padding: 1rem;
+}
+
+.lebo {
+  background-color: var(--primary);
+  color: #eee;
+}
+
 .tab__close {
   justify-content: flex-end;
   padding: 0.5rem 1rem;
@@ -121,10 +131,4 @@ main h1 {
   75% {
     transform: rotate(90deg) translate(-0.25rem);
   }
-}
-.panel {
-  padding: 0 18px;
-  display: none;
-  background-color: white;
-  overflow: hidden;
 }/*# sourceMappingURL=main.css.map */
