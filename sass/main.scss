@@ -23,7 +23,7 @@
   }
   
   main{
-    place-content: center;
+    justify-content: center;
     grid-template-columns: repeat(auto-fit, min(100%, 30rem));
     min-height: 100vh;
     place-items: start;
